@@ -1,0 +1,38 @@
+h1{
+  color:#93C0FF;
+  text-align: center;
+}
+
+
+
+#lorem{
+  color:white;
+}
+h3 {
+  color:#FFF68F;
+  font-family: cursive;
+}
+
+body{
+  background-color: #C20095
+}
+a:hover{
+  color: #95C200
+}
+a:visited{
+  color:#C8A2C8
+}
+
+p::first-letter{
+  font-size: 30px;
+  font-style:oblique;
+  color:white;
+}
+
+#p1{
+  color:white;
+}
+
+section{
+  text-align:center;
+}
